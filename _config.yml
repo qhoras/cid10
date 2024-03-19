@@ -1,0 +1,8 @@
+title: Classificação Internacional de Doenças - Décima Revisão - CID-10
+description: Classifica as doenças e outros problemas em saúde registrados em diversos tipos de documentos clínicos.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
