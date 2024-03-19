@@ -11,8 +11,8 @@ Classifica as doenças e outros problemas em saúde registrados em diversos tipo
 ### Get data
 
 ```bash
-GET /data.json
-Host: https://qhoras.github.io HTTP/1.1
+GET /2008.json
+Host: https://qhoras.github.io/cid10 HTTP/1.1
 ```
 
 [https://qhoras.github.io/cid10/2008.json](https://qhoras.github.io/cid10/2008.json)
